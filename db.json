@@ -1,0 +1,29 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "title": "Nier automata",
+            "image": "https://i.ytimg.com/vi/neC6CbEcnw8/hqdefault.jpg",
+            "price": 30,
+            "profesor": "Luis Arce"
+        }, {
+            "id": 2,
+            "title": "WOTV FFBE",
+            "image": "https://external-preview.redd.it/ujQHzzl5tMi9DSkwpItnz5LMjpvytzbEtasXLiDFps4.jpg?auto=webp&s=e7091059f6a9c9f0e30cabf42777a48477d3eea2",
+            "price": 20,
+            "profesor": "Luis Arce"
+        }, {
+            "id": 3,
+            "title": "FMA",
+            "image": "https://www.gamecored.com/wp-content/uploads/2020/03/Final-Fantasy-Brave-Exvius-Fullmetal-Alchemist-pic000-e1585274222896-810x400.jpg",
+            "price": 10,
+            "profesor": "Luis Arce"
+        }, {
+            "id": 4,
+            "title": "KH",
+            "image": "https://pbs.twimg.com/media/DvyB8ZeUUAA6Qzt.jpg",
+            "price": 40,
+            "profesor": "Luis Arce"
+        }
+    ]
+}
